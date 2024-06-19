@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blake</h1>
 <h3 align="center">A SWE Intern @ Fastly!</h3>
 
-🚀 I’m currently working on **improving a Kubernetes based platform for control plane services.**\
+🚀 I’m currently working on **improving a Kubernetes based platform for Fastly's control plane services.**\
 🎓 I'll be **graduating December 2024!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
