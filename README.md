@@ -2,7 +2,7 @@
 <h3 align="center">A SWE Intern!</h3>
 
 🚀 I’m currently working on **improving a Kubernetes based platform for control plane services.**
-
+🎓 I'll be **graduating December 2024!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/blakemarshalll" target="blank">
