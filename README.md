@@ -9,7 +9,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blakemarsalll" height="30" width="40" style="margin-right: 10px;" />
   </a>
   <a href="https://www.leetcode.com/officialblake" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="officialblake" height="30" width="40" style="margin-right: 10px;" />
+    <img align="center" src="https://repository-images.githubusercontent.com/660115526/cbbcd367-535a-4e9d-927b-9eacd8d652e8" alt="officialblake" height="30" width="40" style="margin-right: 10px;" />
   </a>
 </p>
 
