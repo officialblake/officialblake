@@ -3,8 +3,6 @@
 
 - 🚀 I’m currently working on **improving a Kubernetes based platform for Fastly control plane services.**
 
-- 📫 How to reach me **contact@blakemarshall.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/blakemarshalll" target="blank">
