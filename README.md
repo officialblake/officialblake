@@ -1,7 +1,7 @@
 <summary align="center"><h1 style="text-decoration: none;">Hi 👋, I'm Blake</h1></summary>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-🚀 I’m working on **improving a Kubernetes-based container orchestration platform for Fastly's control plane services.**\
+🚀 I’m working on **improving a Kubernetes-based container orchestration platform for Fastly's control plane services.**
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/blakemarshalll" target="blank">
