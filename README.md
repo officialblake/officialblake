@@ -2,7 +2,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 🚀 I’m working on **improving a Kubernetes-based container orchestration platform for Fastly's control plane services.**\
-🎓 I'll be **graduating December 2024!**
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/blakemarshalll" target="blank">
